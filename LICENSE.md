@@ -1,4 +1,4 @@
-# 
+# exclusive Advanced SystemCare PC版 插件 是最佳 Advanced SystemCare PC版 插件，集成 图像调整大小 和 自定义列。安全、可靠、优化，性能最大化。
 
 
 
